@@ -1,39 +1,41 @@
-# zhufeng_front_monitor_202009
+## 训练目标
+系统学习和掌握React全家桶的实战应用，功能包括： 
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+- 1. 移动端布局
+- 2. 头部导航
+- 3. 用户注册
+- 4. 用户权限
+- 5. 用户注册
+- 6. 用户登录
+- 7. 轮播图
+- 8. 课程列表和优化
+- 9. 防抖节流
+- 10. 购物车
+- 11. 购物车动画
 
-#### 软件架构
-软件架构说明
+## 入营要求
+- 掌握React全家桶框架的基本知识
+- 保证入营期间和老师保持通信联系，不许无故缺席失联
+- 每天有至少2个小时的独立学习时间
+- 保证入营期间积极参与讨论和整理学习成果或是想法
+
+## 入营须知
+- 本训练营共计6天，从09月19日晚8点开始到09月25日晚8点结束 
+- 参加本训练营需要支付8学分
+- 每天晚8点布置实践任务，截止第2天晚8点完成，完成任务每天可依次获得 1、2、3、4、5、6个学分
+- 如果当天任务无法完成，则中止训练营资格，请出群，无法参与后续的学习，已经扣除的学分不退
+- 全部学员按学号尾号分为10个组,尾号相同的为一组,当天小组成员全部完成的每个人的学分翻倍
+- 要参加的同学要填写表格 `https://shimo.im/sheets/XPPWvTyH6jkCDdQr/MODOC/`并加入小组互相监督学习
+
+## 训练流程
+- 1. 先将训练营的仓库代码仓库 `Fork` 到自己的码云账号下 `https://gitee.com/zhufengpeixun/zhufeng_front_monitor_202009`
+- 2. 将 Fork 后的仓库 Clone 到本地
+- 3. 在项目根目录下创建自己的项目并完成当天的任务，第1天是创建，后面就是添加代码了
+- 4. 把实践总结(学到了什么？收获了什么?遇到了什么问题?如何解决的?)写在当天目录的`学习总结.md`文件里
+- 4. 在本地仓库完成作业后，push 到自己的码云远程仓库中
+- 5. 最后将自己最后的commit链接地址添加到训练营仓库的当天issue中
+- 6. 完成后在微信群中打卡，并`@`助教加学分
+- 7. 大家如果遇到问题可以提issue (https://gitee.com/zhufengpeixun/zhufeng_front_monitor_202009/issues/I1VRRL)
+如果不会操作的可以看操作视频  http://img.zhufengpeixun.cn/submitwork.mp4
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
