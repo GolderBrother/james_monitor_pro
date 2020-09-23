@@ -1,4 +1,7 @@
-## 训练目标
+# james_monitor_pro
+
+## 项目目标
+
 部署和使用sentry和灯塔，内容包括：
 
 1. 前端监控概述、sentry、前端监控系统架构、fee仓库
